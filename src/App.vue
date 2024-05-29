@@ -1,7 +1,7 @@
 <template>
   <div>
   <div id="app">
-  <!-- <div class="component-fluid"> -->
+  
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
@@ -45,17 +45,15 @@
   <router-view></router-view>
 
 </div>
-<!-- </div> -->
 
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
   components: {
-    // HelloWorld
+    
   }
 }
 </script>

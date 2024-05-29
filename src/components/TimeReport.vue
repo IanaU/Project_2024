@@ -1,7 +1,5 @@
 <template>
-    
-    
-    <div>
+  <div>
       <h2>Отчет по времени</h2>
       <form @submit.prevent="fetchReport">
     

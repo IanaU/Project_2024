@@ -1,6 +1,4 @@
 <template>
-
-
     <div>
       <form @submit.prevent="submitTime" class="card auth-card">
         
@@ -22,7 +20,7 @@
         <button class="btn btn-primary" type="submit">Добавить</button>
       </form>
     </div>
-  </template>
+</template>
   
   <script>
   import axios from 'axios';

@@ -111,10 +111,7 @@ export default {
             }
         }
     },
-    // props:{
-    // },
-    // computed:{
-    // },
+    
     methods:{
         selectCategory(index){
             this.selectIndex = index;
@@ -122,9 +119,6 @@ export default {
         }
 
     }
-    // ,
-    // watch:{
-    // }
 }
 </script>
 
